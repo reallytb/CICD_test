@@ -1,3 +1,3 @@
 module github.com/reallytb/CICD_test
 
-go 1.24.1
+go 1.22
